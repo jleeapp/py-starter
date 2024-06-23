@@ -37,3 +37,11 @@ pip3 install -r requirements.txt
 ### Running the Project
 
 Add instructions on how to run your project here.
+
+### Running Tests
+
+To run tests using pytest, execute the following command:
+
+```bash
+pytest
+```
