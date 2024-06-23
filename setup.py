@@ -1,4 +1,4 @@
-""" 
+"""
 This is the build script for setuptools. It tells setuptools about your
 package (such as the name and version) and any packages it depends on.
 """
