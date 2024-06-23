@@ -1,8 +1,8 @@
 {
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff"
-  },
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
